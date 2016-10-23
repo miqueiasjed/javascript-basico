@@ -1,0 +1,283 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"this"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 182.0,
+		"last_filter": "waka",
+		"selected_items":
+		[
+			[
+				"waka",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"form",
+				"Snippet: form"
+			],
+			[
+				"blad",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"mode",
+				"Laravel Generate: Model"
+			],
+			[
+				"lara",
+				"Laravel Generate: Model"
+			],
+			[
+				"list",
+				"Laravel Artisan 5: List"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sele",
+				"Snippet: selectrange"
+			],
+			[
+				"select",
+				"Snippet: select"
+			],
+			[
+				"sn",
+				"Snippet: html"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 382.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/public/cursos_son/javascript"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/public/sistemacarreta/app/Http/Controllers/CityController.php",
+		"/C/Users/Miqueias/AppData/Roaming/Sublime Text 3/Packages/WakaTime/WakaTime.sublime-settings",
+		"/C/Users/Miqueias/AppData/Roaming/Sublime Text 3/Packages/User/WakaTime.sublime-settings",
+		"/C/xampp/htdocs/public/sistemacarreta/app/Services/Cities/ServiceCity.php",
+		"/C/xampp/htdocs/public/sistemacarreta/resources/views/groups/index.blade.php",
+		"/C/xampp/htdocs/public/sistemacarreta/.gitignore",
+		"/C/xampp/htdocs/public/sistemacarreta/.env",
+		"/C/xampp/htdocs/public/index/index.php"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"li",
+			" >",
+			"li",
+			" >",
+			"li",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "javascript.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ser",
+				"app\\Services\\Cities\\ServiceCity.php"
+			],
+			[
+				"index",
+				"C:\\xampp\\htdocs\\public\\index\\index.php"
+			],
+			[
+				"",
+				"C:\\xampp\\htdocs\\public\\index\\index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
